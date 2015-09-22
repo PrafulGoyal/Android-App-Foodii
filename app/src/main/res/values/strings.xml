@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dabba LaL</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="screen1_title">Order Ur Food</string>
+    <string name="screen1_desc">Order ur Food anytime anywhere</string>
+    <string name="screen2_title">pay</string>
+    <string name="screen2_desc">pay cash on delivery </string>
+    <string name="screen3_title">Enjoy</string>
+    <string name="screen3_desc">Enjoy ur meal</string>
+
+</resources>
